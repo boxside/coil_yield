@@ -2,7 +2,7 @@
 
 ## Background
 
-![CRC](imagename.png)
+![CRC](crc.jpg)
 
    In Steel manufacturing company, there is cold rolling process. This process will produce cold rolled coil(CRC). CRC have better surface quality, thinner and with more precise size, also have good mechanical property and excellent durability and finishes, while hot rolled coils have excellent formability and weldability, CRC are used in a wide range of applications, such as automotive manufacturing, electrical products, rolling stock, aviation, precision instruments, and food cans. But in this process, have several challange that make reduce the efficiency of the process, this process can produce "byproduct material" a.k.a Scrap. this material caused by production parameter or defect after process. In this case we have to find what that make yield of process reduced.
 
